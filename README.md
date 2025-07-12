@@ -1,6 +1,6 @@
-# 2024 U.S. Election Multimodal AIGC Dataset
+# 2024 U.S. Election AIGC Dataset
 
-The **2024 U.S. Election Multimodal AIGC Dataset** comprises two components: text and image. The text section includes an AI text classifier and its training set. This dataset consists of tweets produced by four leading AI models, along with human-written tweets drawn from a pre-ChatGPT era collection. The image section features a dataset categorized by GPT-4o.
+The **2024 U.S. Election AIGC Dataset** comprises two components: text and image. The text section includes an AI text classifier and its training set. This dataset consists of tweets produced by four leading AI models, along with human-written tweets drawn from a pre-ChatGPT era collection. The image section features a dataset categorized by GPT-4o.
 
 ## AI-Generated Text: Dataset and Classifer
 
