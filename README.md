@@ -15,7 +15,7 @@ The rapid rise of AI-generated content (AIGC) poses significant risks to the int
 
 ### **2. Data Organization**
 
-- **One folder per month** (July, August, September)
+- **One folder per month** (July, August, September, October, November)
 - **Each folder contains multiple CSV files**, with **each CSV storing up to 100,000 records**
 - **Each row represents a single image**
 
@@ -33,14 +33,16 @@ Each CSV file consists of **three columns**:
 
 ## Data Statistics 📊
 
-The dataset contains a total of **2,228,462** classified images, distributed as follows:
+The dataset contains a total of **2,811,729** classified images, distributed as follows:
 
 | Month         | Number of Images |
 | ------------- | ---------------- |
 | **July**      | 1,130,560        |
 | **August**    | 519,687          |
 | **September** | 578,215          |
-| **Total**     | **2,228,462**    |
+| **October**   | 97,543          |
+| **November**  | 485,724          |
+| **Total**     | **2,811,729**    |
 
 ------
 
@@ -63,6 +65,16 @@ The dataset is organized into monthly folders, each containing chunked CSV files
 │── September/
 │   ├── september_chunk_0.csv
 │   ├── september_chunk_1.csv
+│   ├── ...
+│
+│── October/
+│   ├── october_chunk_0.csv
+│   ├── october_chunk_1.csv
+│   ├── ...
+│
+│── November/
+│   ├── november_chunk_0.csv
+│   ├── november_chunk_1.csv
 │   ├── ...
 ```
 
