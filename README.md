@@ -94,12 +94,16 @@ The dataset is organized into monthly folders, each containing chunked CSV files
 If you find this work helpful in your research, please consider citing our paper:
 
 ```bibtex
-@misc{chen2025syntheticpoliticsprevalencespreaders,
-      title={Synthetic Politics: Prevalence, Spreaders, and Emotional Reception of AI-Generated Political Images on X}, 
-      author={Zhiyi Chen and Jinyi Ye and Beverlyn Tsai and Emilio Ferrara and Luca Luceri},
-      year={2025},
-      eprint={2502.11248},
-      archivePrefix={arXiv},
-      primaryClass={cs.SI},
-      url={https://arxiv.org/abs/2502.11248}, 
+@inproceedings{chen2025synthetic,
+  author       = {Zhiyi Chen and Jinyi Ye and Beverlyn Tsai and Emilio Ferrara and Luca Luceri},
+  title        = {Synthetic Politics: Prevalence, Spreaders, and Emotional Reception of AI-Generated Political Images on X},
+  booktitle    = {Proceedings of the 36th ACM Conference on Hypertext and Social Media (HT 2025)},
+  year         = {2025},
+  pages        = {11},
+  publisher    = {Association for Computing Machinery},
+  address      = {New York, NY, USA},
+  doi          = {10.1145/3720553.3746675},
+  url          = {https://doi.org/10.1145/3720553.3746675},
+  location     = {Chicago, IL, USA},
+  date         = {September 15--18, 2025}
 }
